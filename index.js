@@ -1,3 +1,4 @@
+$scope.rating = "Your rating here"; //put your rating value here like 5, 4.5, 3.5, etc
 $scope.ratingConvert = function(rate,count){
     var rateArray = []
     if (count){
